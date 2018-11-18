@@ -18,6 +18,6 @@ tfidf = tf * Log(totalFiles/df)
 The top 100 words are used to create circles with the larger the size being more times found in the document. And using a flocking
 algoritm to control their movements.
 
-#Demo
+# Demo
 
 live demo found [here](https://tweety79rw.github.io/tf-idf/)
