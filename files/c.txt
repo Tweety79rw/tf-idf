@@ -1,0 +1,27 @@
+Pet store
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article needs additional citations for verification. (September 2014)
+This article possibly contains original research. (May 2009)
+
+A typical pet store in Nijmegen, Netherlands.
+A pet store or pet shop is a retail business which sells different kinds of animals to the public. A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums. Some pet stores provide engraving services for pet tags, which have the owner�s contact information in case the pet gets lost.
+
+In the United States and Canada, pet shops often offer both hygienic care (such as pet cleaning) and esthetic services (such as cat and dog grooming). Grooming is the process by which a dog or cat's physical appearance is enhanced and kept according to breed standards for competitive breed showing, for other types of competition, like creative grooming or pet tuning contests, or just to their owners taste. Some pet stores also provide tips on training and behaviour, as well as advice on pet nutrition.
+
+There are many large pet stores located in the US and Canada, including: Petland, Pet Valu, and PetSmart. In the United States, Petco is also a popular pet store. In addition, there are many smaller pet shops that aren't part of big chains, such as Big Al�s and Pet Food Express, which have a smaller number of locations.
+
+Pet stores are extremely popular in today�s society. In 2004, according to the American Pet Products Manufacturers Association, in the pet industry, live animal sales reached approximately $1.6 billion. Moreover, in a 2003 survey in the US, merely 38% of U.S. pet shops claimed that they did not sell any live animals.[1]
+
+
+Controversies
+Unbalanced scales
+This article may lend undue weight to certain ideas, incidents, or controversies. Please help improve it by rewriting it in a balanced fashion that contextualizes different points of view. (September 2015) (Learn how and when to remove this template message)
+A major concern with pet stores and the reason why puppies and kittens may not be sold in certain stores anymore is largely due to puppy mills. Puppy mills are commercial dog breeding businesses that breed dogs primarily for profit, often with little regard for animal welfare. According to the Puppy Mill Project "more than 2.5 million puppies are born in puppy mills each year" in the United States.[2] Kitten mills are not as widely known as puppy mills, but they still do exist. The animals in these mills are kept in tiny, unsanitary cages, receive little to no nourishment, and often receive no veterinary care. Some cities in Canada, such as Toronto, have altogether banned the sale of cats and dogs in pet stores in order to put an end to this animal abuse.[3]
+
+In Canada and the US, another area of concern regarding pet stores is the laws that guide pet stores. In the US, there are no federal laws in place that protect animals in retail pet stores. There are state laws to protect animals, however they all vary and some are not sufficient. In twenty states plus D.C., a license is required before being able to manage a pet store. The welfare of animals in pet shops also relies heavily on the veterinary care available to them. In the United States, there are only 16 states that enforce veterinary care laws in pet stores.[4] In Ontario, Canada the Provincial Animal Welfare Act states that the Ontario Society for the Prevention of Cruelty to Animals has the authorization to examine places where animals are kept for sale, including pet shops.[5]
+
+In computer science
+In computer science, a "pet store program" is an example of how to use a particular software framework or set of libraries to build a real program. Its concept is similar to the Hello world program. It has been made popular by Sun Microsystems for illustrating Java EE, and many other vendors followed.
