@@ -18,7 +18,7 @@ function preload() {
 function setup() {
   createCanvas(1600,800);
   let t = new TFIDF(strings);
-  let origin = t.getDocument(5);
+  let origin = t.getDocument(0);
   let keys = Object.keys(origin);
   keys.sort(function(a,b) {
     return origin[b].tfidf() - origin[a].tfidf();
